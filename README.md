@@ -1,2 +1,2 @@
-# MERN-Finanace
-Small App for managing the finances.
+# MERN Expense Tracker
+Small App for managing the expenses.
